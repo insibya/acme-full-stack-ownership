@@ -1,0 +1,25 @@
+{
+  "name": "acme-full-stack-ownership",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insibya/acme-full-stack-ownership.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insibya/acme-full-stack-ownership/issues"
+  },
+  "homepage": "https://github.com/insibya/acme-full-stack-ownership#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
